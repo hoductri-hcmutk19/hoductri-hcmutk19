@@ -4,6 +4,7 @@ My name is Hồ Đức Trí. I am a final year student majoring in Computer Scie
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductrihcmut123/)
 
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hoductrihcmut123_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
 <a href="https://github.com/hoductrihcmut123/zvoice-recorder/">
