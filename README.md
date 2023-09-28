@@ -1,8 +1,9 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Hồ Đức Trí. I am a final year student majoring in Computer Science, Ho Chi Minh University of Technology. I like the Kotlin language and aim to become a mobile developer.<br>
+
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductrihcmut123/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/)      [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductrihcmut123/)
 
 
 <a href="https://github.com/hoductrihcmut123/zvoice-recorder/">
