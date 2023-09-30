@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hồ Đức Trí. I am a final year student majoring in Computer Science, Ho Chi Minh University of Technology. I like the Kotlin language and aim to become a mobile developer.<br>
+My name is Hồ Đức Trí. I am a final year student majoring in Computer Science, Ho Chi Minh City University of Technology. I like the Kotlin language and aim to become a mobile developer.<br>
 
 ## 📫 How to reach me: 
 
