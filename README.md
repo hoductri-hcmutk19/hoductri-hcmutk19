@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hồ Đức Trí. I am a final-year student majoring in Computer Science, at Ho Chi Minh City University of Technology. I like the Kotlin language and aim to become a mobile developer.<br>
+Nice to meet you, my name is Tri. I am a final-year student majoring in Computer Science, at Ho Chi Minh City University of Technology - HCMUT. I am an enthusiastic and aspiring mobile developer specializing in Android app development. I am dedicated to continuously learning and honing my skills to become a proficient developer in the field.<br>
 
 ## 📫 How to reach me: 
 
