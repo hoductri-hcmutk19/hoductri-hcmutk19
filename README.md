@@ -3,7 +3,7 @@ My name is Hồ Đức Trí. I am a final-year student majoring in Computer Scie
 
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/)      [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductrihcmut123/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoductri/)      [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductrihcmut123/)
 
 
 <a href="https://github.com/hoductrihcmut123/zvoice-recorder/">
