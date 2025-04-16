@@ -3,42 +3,42 @@ Nice to meet you, my name is Tri. I am a final-year student majoring in Computer
 
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoductri/)      [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductrihcmut123/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoductri/)      [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/hoductri-hcmutk19/)
 
 
-<a href="https://github.com/hoductrihcmut123/zvoice-recorder/">
+<a href="https://github.com/hoductri-hcmutk19/zvoice-recorder/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=zvoice-recorder&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=zvoice-recorder&theme=radical" />
 </a>    
-<a href="https://github.com/hoductrihcmut123/Training-app/">
+<a href="https://github.com/hoductri-hcmutk19/Training-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Training-app&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Training-app&theme=merko" />
 </a>
 
-<a href="https://github.com/hoductrihcmut123/Dictionary-app/">
+<a href="https://github.com/hoductri-hcmutk19/Dictionary-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Dictionary-app&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Dictionary-app&theme=gruvbox" />
 </a>    
-<a href="https://github.com/hoductrihcmut123/Cryptocurrency-app/">
+<a href="https://github.com/hoductri-hcmutk19/Cryptocurrency-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Cryptocurrency-app&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Cryptocurrency-app&theme=dark" />
 </a>
 
-<a href="https://github.com/hoductrihcmut123/Meditation-UI/">
+<a href="https://github.com/hoductri-hcmutk19/Meditation-UI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Meditation-UI&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Meditation-UI&theme=onedark" />
 </a>    
-<a href="https://github.com/hoductrihcmut123/Calculator-app/">
+<a href="https://github.com/hoductri-hcmutk19/Calculator-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Calculator-app&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Calculator-app&theme=cobalt" />
 </a>
 
-<a href="https://github.com/hoductrihcmut123/Todo-app/">
+<a href="https://github.com/hoductri-hcmutk19/Todo-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Todo-app&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Todo-app&theme=synthwave" />
 </a>    
-<a href="https://github.com/hoductrihcmut123/Mobile_assignment_UI/">
+<a href="https://github.com/hoductri-hcmutk19/Mobile_assignment_UI/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductrihcmut123&repo=Mobile_assignment_UI&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Mobile_assignment_UI&theme=highcontrast" />
 </a>
 
