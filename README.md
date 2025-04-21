@@ -18,6 +18,10 @@ Nice to meet you, my name is Tri. I am a final-year student majoring in Computer
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=HiWeather&theme=radical" />
 </a>  
+<a href="https://github.com/hoductri-hcmutk19/Weather-App-MVP/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Weather-App-MVP&theme=merko" />
+</a>
 <a href="https://github.com/hoductri-hcmutk19/zvoice-recorder/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=zvoice-recorder&theme=radical" />
@@ -25,10 +29,6 @@ Nice to meet you, my name is Tri. I am a final-year student majoring in Computer
 <a href="https://github.com/hoductri-hcmutk19/Training-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Training-app&theme=merko" />
-</a>
-<a href="https://github.com/hoductri-hcmutk19/Weather-App-MVP/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hoductri-hcmutk19&repo=Weather-App-MVP&theme=merko" />
 </a>
 <a href="https://github.com/hoductri-hcmutk19/Cryptocurrency-app/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
